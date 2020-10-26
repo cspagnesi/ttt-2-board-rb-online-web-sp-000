@@ -1,3 +1,7 @@
 # Define the variable board below.
-my_array = ["top left", "top middle", "top right", "middle left", "middle middle", "middle right", "bottom left", "bottom middle", "bottom right"]
+row = ["0", "1", "2", "3", "4", "5", "6", "7", "8"]
+
+# Position 1: Left
+row (0)
+
 

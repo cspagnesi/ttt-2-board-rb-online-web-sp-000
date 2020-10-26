@@ -1,4 +1,4 @@
-row = [" ", " ", " "]
+row = ["0", "1", "2"]
  
 # Position 1: Left
 row[0]

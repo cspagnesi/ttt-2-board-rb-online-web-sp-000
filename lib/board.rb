@@ -1,1 +1,1 @@
-my_array = ["board"]
+board = ["row 1", "row 2", "row 3"]
